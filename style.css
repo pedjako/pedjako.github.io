@@ -4,5 +4,5 @@ html, body {
 	margin: 0;
 	padding: 0;
 	background: url(img/theMug.jpeg) no-repeat fixed center center;
-	background-size: contain;
+	background-size: auto 100%;
 }
