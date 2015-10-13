@@ -9,4 +9,5 @@ html {background: url(img/theMug.jpeg) no-repeat center center fixed;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;	
+  background-size: 100% 100%;
 }
